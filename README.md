@@ -122,14 +122,6 @@ We believe everyday tools should be lightning fast, beautifully designed, and re
 
 </div>
 
----
-
-## 📊 GitHub Activity
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DevdeskApp&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=6366F1&text_color=94A3B8" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevdeskApp&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=94A3B8" alt="Top Languages" width="48%" />
-</div>
 
 ---
 
